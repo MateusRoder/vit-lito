@@ -1,0 +1,10 @@
+vit_base_patch16_224
+convit_base
+davit_base
+efficientvit_b0
+efficientvit_b3
+fastvit_sa36
+gcvit_base
+mvitv2_base
+flexivit_base
+crossvit_base_240
